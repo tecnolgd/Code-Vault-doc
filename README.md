@@ -1,6 +1,6 @@
 
 # Code Vault documentation
- This repository contains code  for the documentaion for the **Code Vault** static code analysis
+ This repository contains code for the documentaion for the **Code Vault** static code analysis
  tool.
 
 ## Features
