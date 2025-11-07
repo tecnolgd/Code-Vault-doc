@@ -1,4 +1,4 @@
-
+/*style.css file for css effects*/
 
 body {
     font-family: Arial, sans-serif;
@@ -20,7 +20,6 @@ body {
 .headerBar{
     background-color: black;
     border-radius: 5px;   
- 
 }
 
 /* Header and Navigation */
@@ -35,8 +34,6 @@ header {
     width: 100px;;
     vertical-align:middle;
     display:inline-block;
-    
-    
 }
 
 @media(max-width: 600px)
@@ -113,9 +110,9 @@ section h2 {
     border-left: 4px solid #ccc;
 }
 
-/* -------------------- */
-/* 4. Code Blocks */
-/* -------------------- */
+
+/* 4. Code Blocks styling*/
+
 pre {
     background: #242323; /* Dark background */
     color: #18181d; /* Light text */
