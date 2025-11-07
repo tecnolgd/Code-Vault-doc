@@ -8,7 +8,11 @@
  * **CSS**
  * **Responsive** website
  * Detailed Documentation
- * Test cases included
+ * **Test cases** included.
 
-#### Author
+## Value this repo?💫     
+* If you felt this repo to be useful or added knowledge to your dev workflow/skill-building, consider dropping a ⭐️ or hitting *fork*.
+* Open for feedbacks or knowlegde exchange.
+
+Author    
 ***tecnolgd***
