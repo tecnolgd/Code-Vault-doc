@@ -6,8 +6,9 @@
 ## Features
  * **HTML5**
  * **CSS**
- * **Responsive** web documentation
- *
+ * **Responsive** website
+ * Detailed Documentation
+ * Test cases included
 
 #### Author
 ***tecnolgd***
