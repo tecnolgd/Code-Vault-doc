@@ -10,6 +10,12 @@
  * Detailed Documentation
  * **Test cases** included.
 
+## Doc Add-ons
+- [ ] Keywords definations    
+- [ ] Sample test cases with explanation
+- [ ] Dependencies
+- [ ] Coming soon !
+
 ## Value this repo?💫     
 * If you felt this repo to be useful or added knowledge to your dev workflow/skill-building, consider dropping a ⭐️ or hitting *fork*.
 * Open for feedbacks or knowlegde exchange.
