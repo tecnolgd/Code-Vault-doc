@@ -15,7 +15,7 @@
 ## Doc Add-ons
 - [ ] Keywords definations    
 - [ ] Sample test cases with explanation
-- [ ] Dependencies
+- [ ] Reaquired Dependencies
 - [ ] Coming soon !
 
 ## Value this repo?💫     
