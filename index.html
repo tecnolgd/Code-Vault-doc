@@ -34,13 +34,14 @@
         <section id="overview">
             <h2>1. Project Overview</h2>
             <p>
-                A terminal based static code analyzer with file analysis. Made from <strong>pure C++</strong> with object-oriented paradigm. Easy to use and fast as light !.
+                A terminal based static code analyzer with file analysis. Made from <strong>pure C++</strong> with object-oriented paradigm. Easy to use and fast as flash!.
             </p>
             <p>
                 The project supports two main operational modes:
                 <ul>
-                    <li><strong>Command Line Mode (CLI):</strong> For quick, one-off commands and scripting.</li>
                     <li><strong>Interactive Mode:</strong> For continuous exploration and analysis.</li>
+                    <li><strong>Command Line Mode (CLI):</strong> For quick, one-off commands and scripting.</li>
+                    
                 </ul>
             </p>
         </section>
@@ -48,15 +49,24 @@
         <!-- Installation Section -->
         <section id="installation">
             <h2>2. Installation & Setup</h2>
+            <pre>1. Clone the repository: 
+                 2. Open the codevault folder.
+            </pre>
             <h3>2.1 Prerequisites</h3>
-            <p>
+            <pre>
                 [PLACEHOLDER: List any required dependencies, like compiler version, runtime environment, or libraries.]
-            </p>
+                1. Compiler: <code>g++</code>
+                2. Recommended terminal: 
+                3. Libraries: 
+                4. 
+            </pre>
             <h3>2.2 Compilation / Build</h3>
             <p>
                 Use the following command to build the executable:
             </p>
-            <pre><code>[YOUR_BUILD_COMMAND_HERE]</code></pre>
+            <pre><code>[g++ -o cmd.cpp]</code></pre> for manual build
+            <pre><code>[mingw-32 make]</code></pre>
+
         </section>
 
         <!-- Usage Section -->
@@ -65,11 +75,11 @@
 
             <!-- Feature 1 -->
             <div class="feature-block">
-                <h3>3.1. analyze &lt;path&gt;</h3>
+                <h3>3.1. cvault &lt;path&gt;</h3>
                 <p>
                     [PLACEHOLDER: Describe the functionality of your 'analyze' command. What does it do, and what output does it provide?]
                 </p>
-                <pre><code>./toolname analyze .</code></pre>
+                <pre><code>cvault populate .</code></pre>
             </div>
 
             <!-- Feature 2 -->
@@ -78,7 +88,7 @@
                 <p>
                     [PLACEHOLDER: Describe the 'report' command. Explain that it provides a summary of all previously analyzed data.]
                 </p>
-                <pre><code>report (Interactive Mode)</code></pre>
+                <pre><code>cvault report .</code></pre>
             </div>
 
             <!-- Feature 3 -->
@@ -87,7 +97,7 @@
                 <p>
                     [PLACEHOLDER: Describe the 'search' command and its fast lookup capabilities.]
                 </p>
-                <pre><code>./toolname search main.cpp</code></pre>
+                <pre><code>cvault search <filename></code></pre>
             </div>
 
         </section>
