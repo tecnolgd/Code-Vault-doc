@@ -2,8 +2,7 @@
 ![Static Badge](https://img.shields.io/badge/interface-Web-blue)
 
 # Code Vault documentation
- This repository contains code for documentaion of the **Code Vault** static code analysis.
- tool.
+ This repository contains code for **Code Vault** Documentation website.
 
 ## Features
  * **HTML5**
@@ -13,7 +12,8 @@
  * **Test cases** included.
 
 ## Doc Add-ons
-- [ ] Keywords definations    
+- [ ] Keywords definations
+- [ ] "How to Use ?" section.   
 - [ ] Sample test cases with explanation
 - [ ] Reaquired Dependencies
 - [ ] Coming soon !
