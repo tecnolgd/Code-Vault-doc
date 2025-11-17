@@ -1,25 +1,25 @@
 ![Static Badge](https://img.shields.io/badge/website-Static-crimson)
 ![Static Badge](https://img.shields.io/badge/interface-Web-blue)
-![Static Badge](https://img.shields.io/badge/tools-doc-teal)
+![Static Badge](https://img.shields.io/badge/tools-documentation-teal)
 
-# Code Vault documentation
+# Code Vault documentation 📃
  This repository contains code for **Code Vault** Documentation website.
 
-## Features
+## Features ⚙️⚙️
  * **HTML5**
  * **CSS**
  * **Responsive** website
  * Detailed Documentation
  * **Test cases** included.
 
-## Doc Add-ons
+## Doc Add-ons ➕️
 - [ ] Keywords definations
 - [ ] "How to Use ?" section.   
 - [ ] Sample test cases with explanation
 - [ ] Reaquired Dependencies
 - [ ] Coming soon !
 
-## Value this repo?💫     
+## Value this repo? 💫     
 * If you felt this repo to be useful or added knowledge to your dev workflow/skill-building, consider dropping a ⭐️ or hitting *fork*.
 * Open for feedbacks or knowlegde exchange.
 
