@@ -1,5 +1,6 @@
 ![Static Badge](https://img.shields.io/badge/website-Static-crimson)
 ![Static Badge](https://img.shields.io/badge/interface-Web-blue)
+![Static Badge](https://img.shields.io/badge/tools-doc-teal)
 
 # Code Vault documentation
  This repository contains code for **Code Vault** Documentation website.
