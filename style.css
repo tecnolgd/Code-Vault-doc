@@ -109,10 +109,7 @@ section h2 {
     padding-left: 20px;
     border-left: 4px solid #8b8a8a;
 }
-
-
 /* 4. Code Blocks styling*/
-
 pre {
     background: #3d3c3c; /* Dark background */
     color: #18181d; /* Light text */
