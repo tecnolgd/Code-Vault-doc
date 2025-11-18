@@ -111,8 +111,8 @@ section h2 {
 }
 /* 4. Code Blocks styling*/
 pre {
-    background: #3d3c3c; /* Dark background */
-    color: #18181d; /* Light text */
+    background: #a6a4a4; /* Dark background */
+    color: #041a0c; /* Light text */
     padding: 18px;
     border-radius: 5px;
     overflow-x: auto;
@@ -122,7 +122,7 @@ pre {
 
 code {
     font-family: 'Courier New', Courier, monospace;
-    background: #b9b2e6;
+    background: #639e82;
     padding: 2px 4px;
     border-radius: 3px;
 }
