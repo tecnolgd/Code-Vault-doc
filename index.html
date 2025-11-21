@@ -81,7 +81,7 @@
 
             <!-- Feature 1 -->
             <div class="feature-block">
-                <h3>3.1. cvault &lt;path&gt;</h3>
+                <h3>3.1. cvault populate&lt;path&gt;</h3>
                 <p>
                     [PLACEHOLDER: Describe the functionality of your 'analyze' command. What does it do, and what output does it provide?]
                 </p>
@@ -101,11 +101,21 @@
 
             <!-- Feature 3 -->
             <div class="feature-block">
-                <h3>3.3. search &lt;filename&gt;</h3>
+                <h3>3.3. fsearch &lt;filename&gt;</h3>
                 <p>
                     This command is used to search a file in the scanned/populated directory. The search functionality happens based on file name. Note that <code>fsearch</code> doesn't work for executables or object files.
                 </p>
                 <pre><code>cvault search filename</code></pre>
+            </div>
+
+            <div class="feature-block">
+                <h3>3.2. fsortbyte</h3>
+                <p>
+                    This command is used to sort the files(including executables, object files, etc.) in increasing order of no of bytes in the file or simply based on the size of the file.
+                    <code>cvault fsortbyte&lt;directory&gt;</code> otherwise.
+
+                </p>
+                <pre><code>cvault fsortbyte .</code> //file sort for the current directory.</pre>
             </div>
             <h2>3. Feature Reference</h2>
             <div class="feature-block">
