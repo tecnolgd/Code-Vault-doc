@@ -16,7 +16,7 @@
 - [ ] Keywords definations
 - [ ] "How to Use ?" section.   
 - [x] Output Screenshots
-- [ ] Reaquired Dependencies
+- [ ] Required Dependencies
 - [ ] Coming soon !
 
 ## Value this repo? 💫     
