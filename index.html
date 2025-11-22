@@ -51,7 +51,7 @@
         <section id="installation">
             <h2>2. Installation & Setup</h2>
             <pre>1. Clone the repository: 
-                <code>git clone https://github.com/tecnolgd/cpp_2</code>
+                <code>git clone https://github.com/tecnolgd/cvault</code>
                  2. Open the codevault folder:
                  <code>cd cvault</code>
             </pre>
@@ -83,9 +83,11 @@
             <div class="feature-block">
                 <h3>3.1. cvault populate&lt;path&gt;</h3>
                 <p>
-                    [PLACEHOLDER: Describe the functionality of your 'analyze' command. What does it do, and what output does it provide?]
+                    This command is used to scan for the directory for files.
+                    If directory name is not specified it scans the directory in which Code Vault is opened.
                 </p>
                 <pre><code>cvault populate .</code></pre>
+                <img src="img_output/pop_cmd.png" height="200">
             </div>
 
             <!-- Feature 2 -->
@@ -97,6 +99,7 @@
 
                 </p>
                 <pre><code>cvault report .</code> //directory report generation for the current directory.</pre>
+                <img src="img_output/report_cmd.png" height="200">
             </div>
 
             <!-- Feature 3 -->
@@ -106,6 +109,7 @@
                     This command is used to search a file in the scanned/populated directory. The search functionality happens based on file name. Note that <code>fsearch</code> doesn't work for executables or object files.
                 </p>
                 <pre><code>cvault search filename</code></pre>
+                <img src="img_output/search_cmd.png" height="200">
             </div>
 
             <div class="feature-block">
@@ -122,13 +126,20 @@
                 <h3>Interactive Mode commands</h3>
                 <pre>
                     <code>populate</code>: To populate / scan the  directory
+                    <img src="img_output/pop_int.png" height="100">
                     <code>report</code>: To display the scanned directory report
+                    <img src="img_output/report_int.png" height="300">
                     <code>fsortbyte</code>: To sort the files based on file size
+                    <img src="img_output/sort_int.png" height="300">
                     <code>fsearch</code>: To search for a file in the scanned directory
+                    <img src="img_output/search_int.png" height="100">
                     <code>fmaxbyte</code>: To find the largest file(based on size)
+                    <img src="img_output/max_int.png" height="100">
                     <code>creds</code>: To display credits and doc links
                     <code>help</code>: To display commands and their meanings
+                    <img src="img_output/help_int.png" height="300">
                     <code>exit/quit</code>: To exit/ quit the application
+                    <img src="img_output/exit_int.png" height="100">
                 </pre>
             </div>
 
