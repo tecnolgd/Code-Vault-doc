@@ -15,7 +15,7 @@
 ## Doc Add-ons ➕️
 - [ ] Keywords definations
 - [ ] "How to Use ?" section.   
-- [ ] Sample test cases with explanation
+- [x] Output Screenshots
 - [ ] Reaquired Dependencies
 - [ ] Coming soon !
 
