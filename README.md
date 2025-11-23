@@ -13,7 +13,7 @@
  * **Test cases** included.
 
 ## Doc Add-ons ➕️
-- [ ] Keywords definations
+- [x] Command definations
 - [ ] "How to Use ?" section.   
 - [x] Output Screenshots
 - [ ] Required Dependencies
