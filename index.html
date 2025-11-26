@@ -10,12 +10,11 @@
     <link rel="icon" type="image/png" href="cv_logo.png"> <!--favicon-->
     
     <!--link to include github icon-->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
 </head>
 <body>
 
     <header>
-    
         <div class="container">
             <div class="headerBar">
             <h1><img src="cv_readme.png" alt="Code Vault logo" class="site-logo"> Code Vault Documentation</h1>
@@ -36,7 +35,7 @@
         <section id="overview">
             <h2>1. Project Overview</h2>
             <p>
-                A terminal based static code analyzer with file analysis. Made from <strong>pure C++</strong> with object-oriented paradigm. Easy to use and fast as flash!.
+                A <strong>CLI</strong> based static code analyzer with file analysis. Made from <strong>pure C++</strong> with object-oriented paradigm. Easy to use and fast as flash!.
             </p>
             <p>
                 The project supports two main operational modes:
@@ -68,7 +67,7 @@
             <pre>
                 Use the following command to build the executable:
                 Compilation:
-                * <code>g++ -o cmd.cpp</code>For manual build
+                * <code>g++ main.cpp cmd.cpp -o cvault</code>For manual build
                 * <code>mingw-32 make</code>For makefile build(recommended)<br>
                 Build:
                 * <code>cvault.exe</code> or simply <code>cvault</code> (For windows)
@@ -112,7 +111,7 @@
                 <pre><code>cvault search filename</code></pre>
                 <img src="img_output/search_cmd.png" height="150">
             </div>
-
+            <!--Feature 4-->
             <div class="feature-block">
                 <h3>3.4.cvault fsortbyte &lt;path&gt; or simply cvault fsortbyte</h3>
                 <p>
@@ -145,13 +144,11 @@
                     </ul>
                 </pre>
             </div>
-
         </section>
 
     </main>
      <a href="#top"><button style="background-color: rgb(99, 111, 116); margin-left: 60%;margin-bottom: 5px;"><i class="fa-solid fa-arrow-up"></i></button></a>
     <footer>
-        
         <div class="container">
             &copy; 2025 Code Vault | <a href="LINK_TO_REPO"><i class="fab fa-github"></i>Github Repo</a>
         </div>
