@@ -16,7 +16,7 @@
 - [x] Command definations
 - [ ] "How to Use ?" section.   
 - [x] Output Screenshots
-- [ ] Required Dependencies
+- [ ] Feedback section
 - [ ] Coming soon !
 
 ## Value this repo? 💫     
