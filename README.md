@@ -3,14 +3,14 @@
 ![Static Badge](https://img.shields.io/badge/tools-documentation-teal)
 
 # Code Vault documentation 📃
- This repository contains code for **Code Vault** Documentation website.
+ This repository contains code for **Code Vault Documentation** website.
 
 ## Features ⚙️⚙️
  * **HTML5**
  * **CSS**
  * **Responsive** website
  * Detailed Documentation
- * **Test cases** included.
+ * **Sample outputs** included.
 
 ## Doc Add-ons ➕️
 - [x] Command definations
