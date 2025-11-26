@@ -14,7 +14,7 @@
 
 ## Doc Add-ons ➕️
 - [x] Command definations
-- [ ] "How to Use ?" section.   
+- [x] "How to Use ?" section.   
 - [x] Output Screenshots
 - [ ] Feedback section
 - [ ] Coming soon !
