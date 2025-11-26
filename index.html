@@ -81,6 +81,7 @@
 
             <!-- Feature 1 -->
             <div class="feature-block">
+                <h3>[Command line Mode]</h3>
                 <h3>3.1. cvault populate &lt;path&gt;</h3>
                 <p>
                     This command is used to scan for the directory for files.
@@ -121,9 +122,8 @@
                 </p>
                 <pre><code>cvault fsortbyte .</code> //file sort for the current directory.</pre>
             </div>
-            <h2>3. Feature Reference</h2>
+            <h2>4. Interactive Mode commands</h2>
             <div class="feature-block">
-                <h3>Interactive Mode commands</h3>
                 <pre>
                     <ul>
                     <li><code>populate</code>: To populate / scan the  directory</li>
@@ -144,6 +144,48 @@
                     </ul>
                 </pre>
             </div>
+        </section>
+
+        <section id="installation">
+            <h2>5. How to run?</h2>
+            <div class="feature-block">
+                <pre>## How to run ?🔛
+1. Clone the repository :
+<code>git clone https://github.com/tecnolgd/cvault</code>
+
+2. Open the folder :
+ <code>cd cvault</code>
+
+2) Run with  
+    * ### Makefile (*Recommended*)
+        1. Open terminal in the <code>cvault</code> folder. 
+        2. Run <code>mingw32-make //for windows</code> / <code>make //for linux/ios</code>.
+        3. An executabe file called <code>cvault.exe</code> / <code>cvalut.o</code>would be formed.
+        4. Run the command     
+            * for <strong>Interactive</strong> mode:
+              Use cvault.exe //for windows or simply ***`cvault`***
+              Use ***`./cvault`***(for linux/ios)  in the terminal.
+            * for **Command-line** mode:
+              Directly type the suitable commands on the terminal interface.
+
+            *(Note: Run ***`mingw32-make clean`*** or ***`make clean`*** to clear object files based on OS)*
+        5. The application will open for user interaction.
+        ---
+
+    * ### g++(*Manual way / for beginners*)     
+        1. Open the terminal in the **cvault** folder.
+        2. Run
+        ```bash
+        g++ main.cpp cmd.cpp -o cvault
+        ```
+        3. An executable file called ***`cvault.exe`*** would be formed.
+        4. Run the command ***`cvault.exe`***or simply ***`cvault`***(windows) or ***`./cvault`***(linux/ios) in the terminal. (same as Makefile step-4).
+        5. The application will start its execution.
+
+</pre>
+            </div>
+
+            
         </section>
 
     </main>
