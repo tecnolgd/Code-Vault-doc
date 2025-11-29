@@ -52,7 +52,7 @@ header h1 {
     color: #d7d2d2;
 }
 
-nav{
+nav{  /*navigation options*/
     text-decoration: none;
     color: #f2f4f6;
     margin-right: 15px;
@@ -81,7 +81,6 @@ button:hover{
     background-color: rgb(160, 185, 233);
     transition: 0.3s;
     color: #2a2828;
- 
 }
 
 /*main*/
@@ -125,7 +124,7 @@ pre {
     font-size: 0.9em;
 }
 
-code {
+code { /*code format styling*/
     font-family: 'Courier New', Courier, monospace;
     background: #639e82;
     padding: 2px 4px;
@@ -141,7 +140,6 @@ footer {
     text-align: center;
     padding: 10px 0;
 }
-
 footer a {
     color: #101f10;
     text-decoration: none;
