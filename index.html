@@ -42,7 +42,6 @@
                 <ul>
                     <li><strong>Interactive Mode:</strong> For continuous exploration and analysis.</li>
                     <li><strong>Command Line Mode (CLI):</strong> For quick, one-off commands and scripting.</li>
-                    
                 </ul>
             </p>
         </section>
@@ -56,12 +55,11 @@
                  <code>cd cvault</code>
             </pre>
             <h3>2.1 Prerequisites</h3>
-            <pre>
-                [PLACEHOLDER: List any required dependencies, like compiler version, runtime environment, or libraries.]
-                1. Compiler: <code>g++</code>
-                2. Recommended terminal: cmd
-                3. Libraries: Not required 💀
-                4. 
+            <pre
+                1. Compiler: <strong>GCC MinGW(x32/64) ver 14.2.0</strong> (Recommended)
+                2. Recommended terminal: <strong>cmd (windows)</strong>
+                3. Libraries: Not required 💀 (clone and run the damn code)
+                4. Runtime Environment: <strong>Windows 11 and above(Recommended)</strong>
             </pre>
             <h3>2.2 Compilation / Build</h3>
             <pre>
@@ -97,7 +95,6 @@
                 <p>
                     This command is used to display all the files in the scanned directory.
                     The report by default scans the directory in which Code Vault is opened unless stated in the <code>cvault report &lt;directoryName&gt;</code> otherwise.
-
                 </p>
                 <pre><code>cvault report .</code> //report generation for the current directory.</pre>
                 <img src="img_output/report_cmd.png" height="400">
@@ -118,10 +115,11 @@
                 <p>
                     This command is used to sort the files(including executables, object files, etc.) in increasing order of no of bytes in the file or simply based on the size of the file.
                     <code>cvault fsortbyte&lt;directory&gt;</code> otherwise.
-
                 </p>
                 <pre><code>cvault fsortbyte .</code> //file sort for the current directory.</pre>
             </div>
+
+            <!--Interactive mode features-->
             <h2>4. Interactive Mode commands</h2>
             <div class="feature-block">
                 <pre>
@@ -178,7 +176,6 @@
                         3. An executable file called <code>cvault.exe</code> would be formed.
                         4. Run the command cvault.exe or simply <code>cvault //for windows</code> / <code>./cvault //linux/ios</code> in the terminal. (same as Makefile step-4).
                         5. The application will start its execution.
-
                 </pre>
             </div>
         </section>
