@@ -9,7 +9,7 @@
  * **HTML5**
  * **CSS**
  * **Responsive** website
- * Detailed Documentation
+ * **User-friendly** Documentation
  * **Sample outputs** included
  * **GA4** embedded for traffic analysis
 
