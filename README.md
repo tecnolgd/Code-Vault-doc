@@ -10,7 +10,8 @@
  * **CSS**
  * **Responsive** website
  * Detailed Documentation
- * **Sample outputs** included.
+ * **Sample outputs** included
+ * **GA4** embedded for traffic analysis
 
 ## Doc Add-ons ➕️
 - [x] Command definations
