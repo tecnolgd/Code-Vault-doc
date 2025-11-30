@@ -131,9 +131,7 @@ code { /*code format styling*/
     border-radius: 3px;
 }
  /*footor*/
-.gh:hover{
-    color: #0e5d61;
-}
+
 footer {
     background: #474b47;
     color: #edf0ed;
