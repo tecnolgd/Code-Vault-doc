@@ -12,7 +12,7 @@
  * **Responsive** website
  * **User-friendly** Documentation
  * **Sample outputs** included
- * **GA4** embedded for traffic analysis
+ * **GA4** embedded for user traffic analysis
 
 ## Doc Add-ons ➕️
 - [x] Command definations
