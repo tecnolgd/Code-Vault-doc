@@ -10,7 +10,7 @@
 </div>
 
 ---
-> This repository contains code for [**Code Vault Documentation**](https://tecnolgd.github.io/Code-Vault-docs/) website.
+> This repository contains code for [**Code Vault Documentation**](https://tecnolgd.github.io/Code-Vault-doc/) website.
 
 ## Features
 
