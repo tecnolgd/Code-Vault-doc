@@ -1,29 +1,24 @@
-![Static Badge](https://img.shields.io/badge/website-Static-crimson)
-![Static Badge](https://img.shields.io/badge/interface-Web-blue)
-![Static Badge](https://img.shields.io/badge/tools-documentation-teal)
-![Static Badge](https://img.shields.io/badge/integration-GA4-yellowgreen)
+<h1 align = "center" style = "font-family: Roboto;">Code Vault documentation</h1>
 
-# Code Vault documentation 📃
- This repository contains code for **Code Vault Documentation** website.
+<div align = "center">
 
-## Features ⚙️⚙️
- * **HTML5**
- * **CSS**
- * **Responsive** website
- * **User-friendly** Documentation
- * **Sample outputs** included
- * **GA4** embedded for user traffic analysis
+<img src = "https://img.shields.io/badge/website-Static-1a1a1a?style=flat-square" alt = "Website: Static">
+<img src = "https://img.shields.io/badge/interface-Web-1a1a1a?style=flat-square" alt = "Interface: Web">
+<img src = "https://img.shields.io/badge/tool-documentation-1a1a1a?style=flat-square" alt = "Tool: Documentation">
+<a href = "https://github.com/tecnolgd/libcvault/releases/tag/v1.0.0-beta"><img src="https://img.shields.io/badge/release-v1.0.0-1a1a1a?style=flat-square" alt="Release"></a>
 
-## Doc Add-ons ➕️
-- [x] Command definations
-- [x] "How to Use ?" section.   
-- [x] Output Screenshots
-- [ ] Feedback section
-- [ ] Coming soon !
+</div>
 
-## Value this repo? 💫     
-* If you felt this repo to be useful or added knowledge to your dev workflow/skill-building, consider dropping a ⭐️ or hitting *fork*.
-* Open for feedbacks or knowlegde exchange.
+---
+> This repository contains code for [**Code Vault Documentation**](https://tecnolgd.github.io/Code-Vault-doc) website.
 
-Author    
-***tecnolgd***
+## Features
+
+ - **HTML5**
+ - **CSS**
+ - **Responsive** website
+ - **User-friendly** Documentation
+ - **Sample outputs** included
+ 
+---
+Developed by tecnolgd · Archived learning artifact.
