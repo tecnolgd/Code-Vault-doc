@@ -5,7 +5,6 @@
 <img src = "https://img.shields.io/badge/website-Static-1a1a1a?style=flat-square" alt = "Website: Static">
 <img src = "https://img.shields.io/badge/interface-Web-1a1a1a?style=flat-square" alt = "Interface: Web">
 <img src = "https://img.shields.io/badge/tool-documentation-1a1a1a?style=flat-square" alt = "Tool: Documentation">
-<a href = "https://github.com/tecnolgd/libcvault/releases/tag/v1.0.0-beta"><img src="https://img.shields.io/badge/release-v1.0.0-1a1a1a?style=flat-square" alt="Release"></a>
 <img src = "https://img.shields.io/badge/status-Archived-1a1a1a?style=flat-square" alt = "Status: Archived">
 
 </div>
